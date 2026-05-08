@@ -10,7 +10,13 @@ The [Dataset](https://www.kaggle.com/datasets/zongaobian/h1b-lca-disclosure-data
 project/
 │
 ├── app/
-│   └── app.py
+│   ├── app.py
+│   │
+│   ├── templates/
+│   │   └── index.html
+│   │
+│   └── static/
+│       └── style.css
 │
 ├── assets/
 │
