@@ -2,6 +2,7 @@
 ![dashboard](assets/title.png) 
 
 ## Overview 
+This project presents an end-to-end machine learning system for H-1B visa approval prediction designed to support employer decision-making using the USCIS H-1B petition dataset from Kaggle containing approximately 3.5 million records from 2020–2024. Multiple machine learning models including XGBoost, LightGBM, Random Forest, and ElasticNet are trained and evaluated using performance metrics and SHAP-based explainability to identify the most influential approval drivers. The final selected model is deployed through a Gradio interface on Hugging Face for real-time inference, with future plans for scalable cloud deployment using FastAPI, Docker, AWS, and a React frontend for production-grade serving and interactive user experience. 
 
 ## Use Cases 
 
