@@ -39,10 +39,11 @@ project/
 │   └── 04_model_training.ipynb
 │
 ├── src/
+│   ├── __init__.py
 │   ├── preprocessing.py
-│   ├── feature_engineering.py
 │   ├── train.py
-│   └── predict.py
+│   ├── evaluate.py
+│   └── inference.py
 │
 ├── requirements.txt
 ├── runtime.txt
