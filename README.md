@@ -1,5 +1,5 @@
 # H1B Visa Approval Prediction for Employer Decision Support (project ongoing)
-![dashboard](Assets/title.png) 
+![dashboard](assets/title.png) 
 
 ## Overview 
 
