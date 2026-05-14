@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/Hosted%20On-Hugging%20Face | AWS-yellow?logo=huggingface" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
   
   <!-- Social -->
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/H1B-Visa-Approval-Prediction-for-Employer-Decision-Support?style=social" alt="Forks">
