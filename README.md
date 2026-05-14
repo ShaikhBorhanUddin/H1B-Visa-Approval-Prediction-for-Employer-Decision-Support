@@ -1,4 +1,59 @@
-# H1B Visa Approval Prediction for Employer Decision Support (project ongoing)
+# H1B Visa Approval Prediction for Employer Decision Support (project ongoing) 
+<p align="left">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Made%20With-Colab-blue?logo=googlecolab&logoColor=white" alt="Made with Colab">
+  <img src="https://img.shields.io/badge/Language-Python-green?logo=python" alt="Language: Python">
+  <img src="https://img.shields.io/badge/💻Dev%20Environment-VS%20Code-blue?logo=visualstudiocode">
+
+  <!-- License & Issues -->
+  <img src="https://img.shields.io/badge/⚖️%20License-MIT-red" alt="License">
+  <img src="https://img.shields.io/badge/🐞%20Issues-None-green" alt="Issues">
+
+  <!-- Repo Stats -->
+  <img src="https://img.shields.io/github/repo-size/ShaikhBorhanUddin/H1B-Visa-Approval-Prediction-for-Employer-Decision-Support?logo=github" />
+  <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/H1B-Visa-Approval-Prediction-for-Employer-Decision-Support" alt="Last Commit">
+
+  <!-- Models -->
+  <img src="https://img.shields.io/badge/🤖%20Models-XGBoost%20|%20LightGBM%20|%20Random%20Forest-red" alt="Models">
+
+  <!-- Dataset -->
+  <img src="https://img.shields.io/badge/🗂️Dataset-USCIS%20H1B%20LCA%202020--2024-blueviolet" alt="Dataset">
+
+  <!-- Runtime -->
+  <img src="https://img.shields.io/badge/⚙️Runtime-GPU%20Training%20|%20CPU%20Inference-blue" alt="Runtime"> 
+  
+  <!-- Explainability -->
+  <img src="https://img.shields.io/badge/🧠Explainability-SHAP-orange" alt="Explainability">
+
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/📊%20Visualization-Matplotlib%20|%20Seaborn-yellow" alt="Visualization">
+
+  <!-- Deployment -->
+  <img src="https://img.shields.io/badge/Deployment-Gradio%20|%20HuggingFace-orange?logo=huggingface" alt="Deployment">
+
+  <!-- API / Backend -->
+  <img src="https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi" alt="FastAPI">
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" alt="React">
+
+  <!-- Containerization -->
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/Host-GitHub-green?logo=github" alt="GitHub">
+
+  <!-- Social -->
+  <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/H1B-Visa-Approval-Prediction-for-Employer-Decision-Support?style=social" alt="Forks">
+
+  <!-- Status -->
+  <img src="https://img.shields.io/badge/🏁Project-In%20Development-yellow" alt="Status">
+</p> 
+
 ![dashboard](assets/title.png) 
 
 ## Overview 
