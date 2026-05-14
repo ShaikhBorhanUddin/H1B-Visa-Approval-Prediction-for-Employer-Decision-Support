@@ -45,7 +45,7 @@
   
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/Code-GitHub-red?logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/🚀Hosted%20On-Hugging%20Face | AWS-green" alt="Hugging Face">
   
   <!-- Social -->
