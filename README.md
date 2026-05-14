@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/🧠Explainability-SHAP-orange" alt="Explainability">
 
   <!-- Visualization -->
-  <img src="https://img.shields.io/badge/📊%20Visualization-Matplotlib%20|%20Seaborn-yellow" alt="Visualization">
+  <img src="https://img.shields.io/badge/📊%20Visualization-Matplotlib%20|%20Seaborn-green" alt="Visualization">
 
   <!-- Deployment -->
   <img src="https://img.shields.io/badge/Deployment-Gradio%20|%20HuggingFace-orange?logo=huggingface" alt="Deployment">
@@ -46,7 +46,7 @@
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/🚀Hosted%20On-Hugging%20Face | AWS-yellow" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/🚀Hosted%20On-Hugging%20Face | AWS-green" alt="Hugging Face">
   
   <!-- Social -->
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/H1B-Visa-Approval-Prediction-for-Employer-Decision-Support?style=social" alt="Forks">
