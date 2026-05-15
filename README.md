@@ -18,9 +18,6 @@
 
   <!-- Dataset -->
   <img src="https://img.shields.io/badge/🗂️Dataset-Kaggle-blueviolet" alt="Dataset">
-
-  <!-- Runtime -->
-  <img src="https://img.shields.io/badge/⚙️Runtime-GPU%20Training%20|%20CPU%20Inference-blue" alt="Runtime"> 
   
   <!-- Explainability -->
   <img src="https://img.shields.io/badge/🧠Explainability-SHAP-orange" alt="Explainability">
@@ -42,6 +39,9 @@
 
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/🌐Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+
+  <!-- Runtime -->
+  <img src="https://img.shields.io/badge/⚙️Runtime-GPU%20Training%20|%20CPU%20Inference-blue" alt="Runtime"> 
   
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Git">
