@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi" alt="FastAPI">
 
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Frontend-React | HTML5 | CSS3-61DAFB?logo=react&logoColor=black" alt="React">
 
   <!-- Containerization -->
   <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
