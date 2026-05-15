@@ -42,6 +42,7 @@
 
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/☁️Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
   
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Git">
