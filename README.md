@@ -96,6 +96,7 @@ project/
 │   ├── 02_data_cleaning.ipynb
 │   ├── 03_feature_engineering.ipynb
 │   └── 04_model_training.ipynb
+│   └── 05_inference.ipynb
 │
 ├── src/
 │   ├── __init__.py
