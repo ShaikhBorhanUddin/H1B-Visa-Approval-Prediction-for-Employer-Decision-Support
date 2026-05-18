@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/📊%20Visualization-Matplotlib%20|%20Seaborn-green" alt="Visualization">
 
   <!-- Deployment -->
-  <img src="https://img.shields.io/badge/Deployment-React%20|%20AWS-orange" alt="Deployment">
+  <img src="https://img.shields.io/badge/🌐Deployment-React%20|%20AWS-orange" alt="Deployment">
 
   <!-- API / Backend -->
   <img src="https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi" alt="FastAPI">
