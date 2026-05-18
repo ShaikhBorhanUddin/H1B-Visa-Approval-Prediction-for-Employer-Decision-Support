@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/📊%20Visualization-Matplotlib%20|%20Seaborn-green" alt="Visualization">
 
   <!-- Deployment -->
-  <img src="https://img.shields.io/badge/🌐Deployment-React%20|%20AWS-orange" alt="Deployment">
+  <img src="https://img.shields.io/badge/🌐Deployment-React | AWS EC2-orange" alt="Deployment">
 
   <!-- API / Backend -->
   <img src="https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi" alt="FastAPI">
@@ -36,9 +36,6 @@
 
   <!-- Containerization -->
   <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
 
   <!-- Runtime -->
   <img src="https://img.shields.io/badge/⚙️Runtime-GPU%20Training%20|%20CPU%20Inference-blue" alt="Runtime"> 
