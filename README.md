@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 
   <!-- Cloud -->
-  <img src="https://img.shields.io/badge/🌐Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/☁️Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
 
   <!-- Runtime -->
   <img src="https://img.shields.io/badge/⚙️Runtime-GPU%20Training%20|%20CPU%20Inference-blue" alt="Runtime"> 
