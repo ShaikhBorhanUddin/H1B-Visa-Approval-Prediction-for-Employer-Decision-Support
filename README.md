@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 
   <!-- Cloud -->
-  <img src="https://img.shields.io/badge/☁️Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
 
   <!-- Runtime -->
   <img src="https://img.shields.io/badge/⚙️Runtime-GPU%20Training%20|%20CPU%20Inference-blue" alt="Runtime"> 
@@ -46,7 +46,6 @@
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Code-GitHub-red?logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/🚀Hosted%20On-Hugging%20Face | AWS-green" alt="Hugging Face">
   
   <!-- Social -->
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/H1B-Visa-Approval-Prediction-for-Employer-Decision-Support?style=social" alt="Forks">
