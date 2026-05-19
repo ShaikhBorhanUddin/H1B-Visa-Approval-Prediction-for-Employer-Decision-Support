@@ -128,6 +128,7 @@ calculate job duration from BEGIN_DATE and END_DATE.
 ## Result Visualization and Explanations 
 
 ## Deployment 
+![dashboard](assets/Top 5 SHAP Drivers.png) 
 
 ## Limitations 
 
